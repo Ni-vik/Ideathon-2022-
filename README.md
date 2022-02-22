@@ -27,6 +27,8 @@ As we are relying on Google mainly for the petrol pumps data.
 Most of the other functions like map and current location of user can be found out by using other free APIs.
 What we need is data of these petrol pumps. As of now, we are figuring a way out to collect this data.
 
+You can see the screenshots of the website in the repository.
+
 Link to the working video of website:     https://clipchamp.com/watch/o9XVq2DFp61
 
 We aren’t submitting the hosted website because of the billing issues of API. But we can show a demo of the website while presenting. 
