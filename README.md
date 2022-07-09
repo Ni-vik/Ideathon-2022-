@@ -5,7 +5,7 @@ Team Name:
 The IT Guys
 
 Team Members : 
-Shreyash Nalawade  (FY B Tech VIIT , Pune)
+Shreyash Shrikant Nalawade  (FY B Tech VIIT , Pune)
 Nishant Kshirsagar    (FY B Tech  MIT-WPU,Pune)
 
 Problem statement chosen : 
