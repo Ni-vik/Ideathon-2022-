@@ -28,6 +28,9 @@ Most of the other functions like map and current location of user can be found o
 What we need is data of these petrol pumps. As of now, we are figuring a way out to collect this data.
 
 You can see the screenshots of the website in the repository.
+![alt text](https://github.com/Ni-vik/Ideathon-2022-/blob/master/Website%20SS%201.png)
+![alt text](https://github.com/Ni-vik/Ideathon-2022-/blob/master/Website%20SS%201.png)
+
 
 Link to the working video of website:     https://clipchamp.com/watch/o9XVq2DFp61
 
